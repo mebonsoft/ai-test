@@ -5,7 +5,7 @@ import openai
 from fastapi import Request, FastAPI
 
 # OpenAI API 키 입력 및 클라이언트 생성
-API_KEY = "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"
+API_KEY = "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"
 client = openai.OpenAI(api_key = API_KEY)
 
 # Telegram API KEY
