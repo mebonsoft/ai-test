@@ -21,7 +21,7 @@ def excel_to_jsonl(excel_file_path, jsonl_file_path, sheet_name='Sheet1'):
             }
 
             # Write each JSON object to the JSONL file
-            jsonl_file.write(json.dumps(data) + '\n')
+            jsonl_file.write(json.dumps(data, ensure_ascii=False) + '\n')
             print(f"System: {system}")
             print(f"User Input: {user_input}")
             print(f"Assistant Response: {assistant_response}")

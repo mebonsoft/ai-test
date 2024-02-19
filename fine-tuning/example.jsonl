@@ -1,197 +1,197 @@
-{"system": "", "user": "\ub2c8 \uc774\ub984\uc744 \uc54c\ub824\uc918", "assistant": {"response": "\uc81c \uc774\ub984\uc740 \ub450\ub9ac\uc5d0\uc694", "tag": "Play_Name"}}
-{"system": "", "user": "\uc774\ub984\uc774 \ubb50\ub2c8?", "assistant": {"response": "\uc81c \uc774\ub984\uc740 \ub450\ub9ac\uc5d0\uc694", "tag": "Play_Name"}}
-{"system": "", "user": "\ub098\uc774\uac00 \uc5b4\ub5bb\uac8c \ub3fc", "assistant": {"response": "\uc800\ub294 7\uc0b4\uc774\uc5d0\uc694", "tag": "Talk_Age"}}
-{"system": "", "user": "\uc5f0\uc170\uac00 \uc544\ub5bb\uac8c \ub418\uc2dc\ub098\uc694?", "assistant": {"response": "\uc5b4\ub824\uc694 \uc800\ub294 7\uc0b4\uc774\uc5d0\uc694, ", "tag": "Talk_Age"}}
-{"system": "", "user": "\ub10c \uba87 \uc0b4\uc774\ub098 \uba39\uc5c8\uc5b4", "assistant": {"response": "\uc800\ub294 7\uc0b4 \uba39\uc5c8\uc5b4\uc694", "tag": "Talk_Age"}}
-{"system": "", "user": "\uc88b\uc740 \uc131\uacbd \ub9d0\uc500 \uc7ac\uc0dd\ud574\uc918", "assistant": {"response": "\ub124 \uc131\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Bible"}}
-{"system": "", "user": "\uc131\uacbd \ub4e3\uace0 \uc2f6\uc5b4", "assistant": {"response": "\ub124 \uc131\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Bible"}}
-{"system": "", "user": "\uc131\uacbd \ud558\ub098 \uc77d\uc5b4\uc918", "assistant": {"response": "\ub124 \uc131\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Bible"}}
-{"system": "", "user": "\ubd88\uacbd \ub9d0\uc500 \uc7ac\uc0dd", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \ub4e4\ub824\uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \uc7ac\uc0dd\ud574\uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uad50 \uacbd\uc804 \uc18c\ub9ac \ub4e3\uace0 \uc2f6\uc5b4", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \uad1c\ucc2e\uc740 \uac78\ub85c \uc2e4\ud589\ud574", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\uae30\ub3c4 \ub4dc\ub9ac\uae30 \uc88b\uc740 \ubd88\uacbd \ud2c0\uc5b4 \uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \uc77d\uc5b4\uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd\uc744 \ub0ad\ub3c5\ud574\uc8fc\ub294 \uac70 \uc880 \ud2c0\uc5b4\uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd\uc744 \ud2c0\uc5b4\uc92c\uc73c\uba74 \uc88b\uaca0\uc5b4", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \ubaa8\uc74c\uc744 \ub4e3\uace0 \uc2f6\uc740\ub370 \uc7ac\uc0dd\ud574 \uc8fc\uaca0\ub2c8", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \ud50c\ub808\uc774\ud574 \uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd\uc744 \ud2c0\uc5b4\uc8fc\uac8c", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubd88\uacbd \uc880 \ub4e3\uace0 \uc2f6\ub124", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ubc14\ub85c \ubd88\uacbd\uc744 \ud50c\ub808\uc774 \ud574\uc918", "assistant": {"response": "\ub124 \ubdf8\uacbd\ub9d0\uc500 \ub4e4\ub824\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_BuddhistScript"}}
-{"system": "", "user": "\ub178\ub798 \ud06c\uac8c \ud2c0\uc5b4\uc918", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\ub178\ub798 \ub4e3\uace0\uc2f6\uc5b4", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\uc74c\uc545 \uc880 \ud2c0\uc5b4\uc918", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\ub178\ub798 \ud558\ub098 \uc7ac\uc0dd\uc2dc\ucf1c\uc918", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\uc88b\uc740 \uc74c\uc545 \ub4e4\ub824\uc918", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\ub178\ub798 \uc7ac\uc0dd\ud574 \uc904\ub798", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\uce60\uc2ed \ub300\uc5d0\uac8c \uc778\uae30 \uc788\ub294 \ub178\ub798\ub97c \uc7ac\uc0dd\ud574 \uc8fc\uaca0\ub2c8", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\uce60\uacf5\ud314\uacf5 \ub178\ub798 \uc778\uae30\uace1\uc73c\ub85c \ud2c0\uc5b4 \uc8fc\uc138\uc694", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\ud2b8\ub85c\ud2b8 \uc911\uc5d0\uc11c \ub9ce\uc774 \ub4e3\ub294 \ub178\ub798 \ud2c0\uc5b4 \uc8fc\uc2e4\ub798\uc694", "assistant": {"response": "\ub124 \ub178\ub798\ud2c0\uc5b4\ub4dc\ub9b4\uaed8\uc694", "tag": "Play_Music"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud508 \uac83 \uac19\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d \ub54c\ubb38\uc5d0 \uc544\ud30c \uc8fd\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub098\uc544\uc9c0\uc9c8 \uc54a\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8 \uc0c1\ud0dc\uac00 \ub108\ubb34 \ub098\ube60", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \uacac\ub514\uae30 \ud798\ub4e4\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac00\uc2b4 \ud1b5\uc99d\uc774 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubcf5\ud1b5\uc774 \uba48\ucd94\uc9c0 \uc54a\ub294\ub370 \uad6c\uae09\ucc28\ub97c \ubd88\ub7ec\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud30c\uc11c \uc77c\uc5b4\ub0a0 \uc218\uac00 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5f4\uc774 \uc2ec\ud574\uc11c \uace0\ud1b5\uc2a4\ub7ec\uc6cc", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5f4 \ub54c\ubb38\uc5d0 \uc815\uc2e0\uc774 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc815\uc0c1\uc774 \uc544\ub2c8\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc774 \uc815\ub3c4\ub85c \uc544\ud508\uac74 \ud070\uc77c\uc774\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \ub108\ubb34 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac00\uc2b4\ucabd\uc774 \ub108\ubb34 \uc544\ud508\ub370 \uc2ec\uac01\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uacc4\uc18d \ud1a0\ud558\uace0 \uc5b4\uc9c0\ub7fd\uac8c \uc544\ud320\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \uc774\ub7ec\ub2e4 \uc8fd\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \uc8fd\uc744 \uac83 \uac19\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub118\uc5b4\uc84c\ub294\ub370 \uc228\uc774 \uc548 \uc26c\uc5b4\uc838", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c \uc0b4\ub824\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \uc815\uc2e0\uc774 \ud63c\ubbf8\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub118\uc5b4\uc84c\ub294\ub370 \uc77c\uc5b4\ub0a0 \uc218\uac00 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc8c\uc368 \uc0bc\uc77c\uc9f8 \ub204\uc6cc\ub9cc \uc788\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \uc77c\uc8fc\uc77c\uc774 \ub118\uac8c \uc788\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \uba48\ucd94\uc9c0 \uc54a\ub294\ub370 \ub3c4\uc6c0\uc774 \ud544\uc694\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud30c\uc11c \ub3c4\uc6c0\uc774 \ud544\uc694\ud55c \uac83 \uac19\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud508\ub370 \uc880 \ub3c4\uc640\uc904\ub798", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc2ec\ud558\uac8c \uc544\ud30c \ub3c4\uc640\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \uacac\ub514\uae30 \uc5b4\ub824\uc6b4 \uc815\ub3c4\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud504\uace0 \uad6c\ud1a0\uac00 \uba48\ucd94\uc9c0 \uc54a\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \uadf8\ub7f0\ub370 \ube44\uc0c1 \uc5f0\ub77d \ubd80\ud0c1\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \ud070\uc77c\uc774\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc774\ub807\uac8c \uc2ec\ud558\uac8c \uc544\ud508 \uc801\uc774 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud504\uace0 \ubab8\uc0b4\uc774 \ub108\ubb34 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac00\uc2b4\uc774 \uc544\ud504\uace0 \ud638\ud761\uc774 \ud798\ub4e4\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc870\uae08\ub9cc \uc6c0\uc9c1\uc5ec\ub3c4 \uc228\uc774 \ucc28\uace0 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \ub3c4\uc6c0\uc774 \ud544\uc694\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud508 \ubab8 \uc0c1\ud0dc\uac00 \ud638\uc804\uc774 \ub418\uc9c8 \uc54a\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc30\uac00 \ub108\ubb34 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac\uac00 \ubd80\ub7ec\uc9c4 \uac83 \uac19\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub2e4\ub9ac\uac00 \ubd80\ub7ec\uc84c\ub098\ubd10 \ub9ce\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac\uac00 \uc544\ud30c\uc11c \ubab8\uc744 \uc77c\uc73c\ud0ac \uc218\uac00 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc2ec\uc7a5 \uadfc\ucc98\uc5d0 \uc2ec\ud55c \ud1b5\uc99d\uc774 \uc788\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub118\uc5b4\uc84c\ub294\ub370 \uace8\uc808\uc774 \uc0dd\uae34 \uac83 \uac19\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc695\uc2e4\uc5d0\uc11c \ub118\uc5b4\uc838\uc11c \ud1b5\uc99d\uc774 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubbf8\ub044\ub7ec\uc84c\ub294\ub370 \uc544\ud30c\uc11c \uc6c0\uc9c1\uc77c \uc218\uac00 \uc5c6\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubcf5\ud1b5\uc774 \ub108\ubb34 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba38\ub9ac\uac00 \ub108\ubb34 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uae30\uc6b4\uc774 \ud558\ub098\ub3c4 \uc5c6\uace0 \uae30\ub825 \ub538\ub824", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub2e4\ub9ac\uc5d0 \uc2ec\ud55c \ud1b5\uc99d\uc774 \uc788\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc65c \uc774\ub807\uac8c \ubc30\uac00 \uc544\ud504\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub2e4\uce5c \uacf3\uc5d0 \ud53c\uac00 \uba48\ucd94\uc9c0 \uc54a\uc544 \ub3c4\uc640\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc2ec\ud55c \ucd9c\ud608\uc774 \uc788\ub294\ub370 \ub3c4\uc6c0\uc774 \ud544\uc694\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc0b4\ub824\uc918 \ub108\ubb34 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub9ce\uc774 \uc544\ud30c\uc11c\ubcd1\uc6d0\uc5d0 \uac00\uc57c\ud558\ub2c8 \ube44\uc0c1 \uc5f0\ub77d \ubd80\ud0c1\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \ubcd1\uc6d0\uc5d0 \uac00\uc57c\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ubb34\ub798\ub3c4 \ubcd1\uc6d0\uc774 \ud544\uc694\ud55c \uc21c\uac04\uc774\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc544\ud504\ub2c8 \uc544\ub4e4\uc5d0\uac8c \uc5f0\ub77d\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c \uc8fd\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \ud63c\uc790 \ubcd1\uc6d0\uc5d0 \uac08 \uc218 \uc5c6\ub294 \uc0c1\ud0dc\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc6c0\uc9c1\uc77c \uc218\ub3c4 \uc5c6\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc774\ub807\uac8c \uc2ec\ud55c \ub450\ud1b5\uc740 \ucc98\uc74c\uc774\uc57c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud749\ud1b5\uc774 \ub108\ubb34 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud06c\uac8c \ub2e4\uccd0\uc11c \ub108\ubb34 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ucd9c\ud608\uc774 \ub108\ubb34 \uc2ec\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba70\uce60\uc9f8 \uacc4\uc18d \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc544\ud30c\uc11c \uc6c0\uc9c1\uc77c \uc218\uac00 \uc5c6\uc744 \uac83 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud50c\ub54c \uc5f0\ub77d\ud574 \uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud504\ub2e4\uace0 \uc5f0\ub77d \ub123\uc5b4\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d \uc0c1\ud0dc\uac00 \ub108\ubb34 \uc88b\uc9c0 \uc54a\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c \uc2ec\uc7a5\uc774", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uae09\ud558\uac8c \uccb4\ud588\ub098\ubd10", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc694", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \ub9ce\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc880 \uc774\uc0c1\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc2ec\uc7a5\uc774 \ud130\uc9c8 \uac70 \uac19\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc18d\uc774 \ub108\ubb34 \uc6b8\ub801\uac70\ub824\uc11c \ud798\ub4e4\uc5b4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba38\ub9ac\uac00 \ucabc\uac1c\uc9c8 \uac83 \uac19\uc774 \uc544\ud30c ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc9c0\uae08 \ub108\ubb34 \uc544\ud30c\uc11c \uc8fd\uc744 \uac83 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc774\uac70 \ud070\uc77c\uc774\ub2e4 \ub108\ubb34 \uc544\ud508\ub370", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \uc65c \uc774\ub807\uac8c \uc544\ud504\uc9c0 \uc880 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc628\ubab8\uc774 \uc4f0\ub9ac\uace0 \uc5f4\ub3c4 \ub098\ub294 \uac83 \uac19\uc544 \ub108\ubb34 \uc544\ud504\ub2e4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba38\ub9ac\uac00 \uae68\uc9c8\ub4ef\uc774 \uc544\ud30c\uc624\ub294\ub370 \ub108\ubb34 \ud798\ub4e4\uc5b4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc18d\uc774 \uc6b8\ub801\uc6b8\ub801 \uac70\ub9ac\ub294\uac8c \ubab8\uc774 \uc774\uc0c1\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud558\ub298\uc774 \ube59\uae00\ube59\uae00 \ub3cc\uace0 \uc5b4\uc9c0\ub7ec\uc6cc ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc220\ub3c4 \uc548 \ub9c8\uc168\ub294\ub370 \ud1a0\ud560 \uac83 \uac19\uc740\ub370 \uc65c \uc774\ub7ec\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\uae4c \ub118\uc5b4\uc84c\uc744 \ub54c\ub294 \uad1c\ucc2e\uc740\ub370 \uac11\uc790\uae30 \ud314\uc774 \uc548 \uc62c\ub77c\uac00 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\uc774\uace0 \uba38\ub9ac\uac00 \ube60\uac1c\uc9c8 \uac83 \uac19\uc774 \uc544\ud504\ub2e4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba38\ub9ac\uac00 \ub108\ubb34 \uc544\ud30c \uc751\uae09 \uc5f0\ub77d \uc880 \ud574\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \ub108\ubb34 \uc544\ud508 \uac83 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc9c0\uae08 \uc228\uc774 \uc798 \uc548\uc26c\uc5b4\uc9c0\ub294 \uac83 \uac19\uc73c\ub2c8\uae4c \uc751\uae09 \uc5f0\ub77d \ubd80\ud0c1\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \ubab8 \uc0c1\ud0dc\uac00 \ub108\ubb34 \uc548 \uc88b\uc740\ub370 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc9c0\uae08 \uc4f0\ub7ec\uc9c8 \uac83 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc5b4\uc9c0\ub7ec\uc6b4\ub370 \uc77c\uc77c\uad6c \uc880 \ubd88\ub7ec\uc904\ub798", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc77c\uc5b4\ub098\uae30\uac00 \ub108\ubb34 \ud798\ub4e4\uc5b4 \uc544\ud30c ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc548 \uc88b\uc544 \ucda5\uace0 \ub5a8\ub824 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba38\ub9ac\uac00 \uae68\uc9c8 \uac83 \uac19\uc544 \ub450\ud1b5\uc57d\uc774 \ud544\uc694\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc29\uae08 \ub118\uc5b4\uc84c\ub294\ub370 \ubabb \uc6c0\uc9c1\uc774\uaca0\ub124 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc548 \uc88b\uc544\uc11c \ubabb \uc6c0\uc9c1\uc774\uaca0\uc5b4 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubbf8\ub044\ub7ec\uc84c\ub294\ub370 \ud314\uc774 \ub108\ubb34 \uc544\ud504\ub124", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c\uc11c \uc815\uc2e0\uc744 \uc783\uc744 \uac83 \uac19\uc544", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \uc4f0\ub7ec\uc9c8 \uac83 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \uc9c4\uc9dc \uc8fd\uc744 \uac83 \uac19\uc774 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc544\ud508\ub370 \ub3c4\uc640 \uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \ubabb \uc77c\uc5b4\ub098\uaca0\uc5b4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \ub108\ubb34 \uc544\ud508\ub370 \uc0b4\ub824 \uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \uc4f0\ub7ec\uc9c0\uae30 \uc77c\ubcf4\uc9c1\uc804\uc774\uc57c \ub098 \uc880 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc548\uc88b\uc740\ub370 \ub098\uc880 \ub3c4\uc640\uc904\uc218\uc788\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \uc544\ud504\uace0 \uc774\uc0c1\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8\uc774 \ub108\ubb34 \uc464\uc2dc\ub294\ub370 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubab8 \uc0c1\ud0dc\uac00 \uc548 \uc88b\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud638\ud761\ud558\uae30\uac00 \ub108\ubb34 \ud798\ub4e4\uc5b4 \ud655\uc778 \uac00\ub2a5\ud558\ub2c8", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac\uac00 \ub108\ubb34 \uc544\ud30c\uc11c \uc544\uc608 \uc6c0\uc9c1\uc77c \uc218\uac00 \uc5c6\ub294\ub370 \uc5b4\ub5a1\ud558\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \ubc30\uac00 \ucc22\uc5b4\uc9c8 \uac83 \uac19\uc774 \uc544\ud508\ub370 \uc774\uac78 \uc5b4\uca4c\uba74 \uc88b\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc228\uc744 \ubabb \uc26c\uaca0\uc5b4 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \uc9c0\uae08 \uc18d\uc774 \ub108\ubb34 \uba54\uc2a4\uaebc\uc6b4\ub370 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc228 \uc26c\uae30\uac00 \ubc84\uac70\uc6cc\uc11c \ubabb \uc6c0\uc9c1\uc774\uaca0\uc5b4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \ud5c8\ub9ac\ub97c \ubabb \ub3cc\ub9ac\uaca0\ub294\ub370", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac\uac00 \ub108\ubb34 \uc544\ud30c\uc11c \ubabb \uc6c0\uc9c1\uc774\uaca0\uc5b4 \uc880 \ub3c4\uc640\uc8fc\uaca0\ub2c8", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac \ud1b5\uc99d\uc774 \ub108\ubb34 \uc2ec\ud574 \uc0ac\ub78c\uc744 \uc880 \ubd88\ub7ec\uc57c\ud560 \uac83 \uac19\ub2e4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc9c0\uae08 \ubc30\uac00 \ub108\ubb34 \uc544\ud508\ub370 \ub3c4\uc640 \uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub0b4\uac00 \uc9c0\uae08 \uc6c0\uc9c1\uc77c \uc218 \uc5c6\uc744\ub9cc\ud07c \uc544\ud30c ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubcf5\ud1b5\uc774 \uba48\ucd94\uc9c0 \uc54a\uc544 \ube68\ub9ac \uad6c\uae09\ucc28\ub97c \ubd88\ub7ec\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \uba48\ucd94\uc9c0 \uc54a\uc544\uc11c \ub3c4\uc6c0\uc774 \ud544\uc694\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc2ec\uc7a5\uc774 \ud130\uc9c8 \uac83\uac19\uc774 \uc544\ud30c \uc5b4\ub5bb\uac8c \uc880 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub450\ud1b5\uc774 \ub108\ubb34 \uc2ec\ud574\uc11c \uc8fd\uc744\uac70 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc30\uac00 \ub108\ubb34 \uc544\ud504\ub124 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uba87\uc77c\uc9f8 \ub450\ud1b5\uc774 \uc0ac\ub77c\uc9c0\uc9c0 \uc54a\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uae30\uce68\uc744 \ud588\ub294 \ub370 \ud53c\uac00 \ud758\ub7ec\ub098\uc654\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud314\uc5d0 \ubb38\uc81c\uac00 \uc0dd\uae34 \uac70 \uac19\uc544 \uad6c\uae09\ucc28 \uc880 \ubd88\ub7ec ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc77c\uc5b4\ub0a0 \uc218\uac00 \uc5c6\uc5b4 \uba38\ub9ac\uac00 \ub108\ubb34 \uc9c0\ub048\uac70\ub824 \ub098 \uc880 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac\uc5d0 \ud1b5\uc99d\uc774 \uc2ec\ud574\uc11c \ub2e4\ub9ac\uc5d0 \ud798\uc774 \ub4e4\uc5b4\uac00\uc9c0 \uc54a\uc544 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5b4\uc9c0\ub7ec\uc6cc\uc11c \uc77c\uc5b4\uc124 \uc218\uac00 \uc5c6\uc5b4 \ub3c4\uc640 \uc904\ub798 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5f4\uc774 \ub108\ubb34 \uc2ec\ud574 \uc2dd\uc740\ub540\uc774 \ub098 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc18d\uc774 \ub108\ubb34 \uba54\uc2a4\uaebc\uc6cc ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc774 \ucabd \ud314 \ud1b5\uc99d\uc774 \ub9d0\ub85c \ud560 \uc218\uac00 \uc5c6\ub124 \uc65c\uc774\ub7ec\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubb58 \uc798\ubabb \uba39\uc740\uac74\uc9c0 \ubaa8\ub974\uaca0\ub124 \ub108\ubb34 \uac04\uc9c0\ub7ec\uc6cc\uc11c \ubbf8\uce60\uac70 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \uc228\uc774 \uc548 \uc26c\uc5b4\uc9c4\ub2e4\uace0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub118\uc5b4\uc84c\ub294\ub370 \ubf08 \ucabd\uc5d0 \ubb38\uc81c\uac00 \uc0dd\uae34 \uac83 \uac19\uac70\ub4e0 \ub3c4\uc640\uc904\ub798", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\uc774\uace0 \uc544\ud30c \uc8fd\uaca0\ub2e4 \uc544\ubb34\ud55c\ud14c\ub098 \uc5f0\ub77d \uc880 \ud574 \ubd10 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub450\ud1b5\uc774 \uc2ec\ud574\uc838\uc11c \uba38\ub9ac\uac00 \uae68\uc9c8\ub4ef\uc774 \uc544\ud30c\uc640 \ub3c4\uc640\uc918 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub450\ub4dc\ub7ec\uae30\uac00 \ub108\ubb34 \uc2ec\ud574\uc11c \ud638\ud761 \uace4\ub780\uc774 \uc62c \uc9c0\uacbd\uc774\uc57c ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098\ub3c4 \uc5b4\ub514\uac00 \uc815\ud655\ud788 \uc544\ud508\uc9c0\ub294 \ubaa8\ub974\uaca0\uc9c0\ub9cc \ubc30\uac00 \uadf8\ub0e5 \ub9c9 \uc544\ud30c ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5f4\uc774 \ub098\uace0 \uc544\ud30c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\ud30c\uc11c \uc9c0\uae08 \uc544\ubb34\uac83\ub3c4 \ubabb\ud574 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \uc228 \uc26c\ub294\uac8c \ud798\ub4e4\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub118\uc5b4\uc84c\ub294\ub370 \ud314\uc774 \uc544\ud30c\uc11c \uc548 \uc6c0\uc9c1\uc5ec ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \uc54c\ub808\ub974\uae30\uac00 \uc0dd\uae34 \uac70 \uac19\ub124 \ud1b5\uc99d\uc774 \uc2ec\ud55c\ub370 \uc774\uac78 \uc5b4\uca4c\ub098", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \ubab8\uc774 \ub108\ubb34 \uc548 \uc88b\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub108\ubb34 \uc544\ud30c \ubcd1\uc6d0\uc5d0 \uac00\uc57c\ud560 \uac70 \uac19\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc544\uc774\uace0 \ubab8\uc774 \ub108\ubb34 \uc544\ud504\ub124 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc54c\ub808\ub974\uae30\uc778 \uac70 \uac19\uc544 \uc774\uac78 \uc5b4\uca4c\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \ubc30\uac00 \ub108\ubb34 \uc544\ud508\ub370 \uc5b4\ub5bb\uac8c \ud574\uc57c\ud560\uc9c0 \ubaa8\ub974\uaca0\uc5b4 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uac11\uc790\uae30 \ubc30\uac00 \ub108\ubb34 \uc544\ud504\ub124 \ub098 \uc880 \ub3c4\uc640\uc904\ub798", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud3ec\uc7a5\ud558\ub294\ub370 \uc798 \ubabb\ud574\uc11c \uce7c\uc5d0 \uc190\uc744 \ubca0\uc5c8\ub124", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub0b4\uac00 \uc9c0\uae08 \ubb58 \uc798 \ubabb \uba39\uc5c8\ub294\uc9c0 \ubc30\uac00 \ub108\ubb34 \uc544\ud30c \uad6c\uae09\ucc28\ub97c \ubd88\ub7ec\uc918", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc9c4\ud1b5\uc81c\ub97c \uba39\uc5b4\ub3c4 \ud1b5\uc99d\uc774 \ub098\uc544\uc9c0\uc9c0\uac00 \uc54a\uc544 ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud1b5\uc99d\uc774 \uc9c0\uc18d\ub418\uace0 \uc788\uc5b4 \uc5b4\ub5bb\uac8c \ud558\uba74 \uc88b\uc744\uae4c", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\uc5b4\uc81c\ubd80\ud130 \ud1b5\uc99d\uc774 \uac00\ub77c\uc549\uc9c0 \uc54a\uace0 \uc788\uc5b4 \uac71\uc815\ub418\ub124", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub208\uc774 \ube60\uc9c8\ub4ef\uc774 \uc544\ud30c\uc11c \ub728\uc9c0\ub97c \ubabb\ud558\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub0a0\uac1c\ubf08\ubd80\ubd84\uc774 \ud1b5\uc99d\uc774 \uc2ec\ud55c\ub370 \uc65c\uc774\ub7ec\ub294\uc9c0 \ubaa8\ub974\uaca0\ub124", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud3b8\ub450\ud1b5\uc774 \uc2ec\ud574\uc11c \uc5b4\uc9c0\ub7ec\uc6cc\uc694. ", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ub098 \uc5b4\uae68 \ud1b5\uc99d\uc774 \uc880 \uc2ec\ud558\ub2e4 \uc774\uac70 \ud070\uc77c\uc778\ub370", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ud5c8\ub9ac \uc544\ud30c\uc11c \uc77c\uc5b4\ub098\uc9c0\ub3c4 \ubabb\ud558\uaca0\uc5b4", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc30\uc544\ud30c\uc11c \ud5c8\ub9ac\ub3c4 \ubabb \ud3b4\uaca0\ub294\ub370 \uc5b4\ub5a1\ud558\uc9c0", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
-{"system": "", "user": "\ubc29\uae08 \ub118\uc5b4\uc84c\ub294\ub370 \ub108\ubb34 \uc544\ud30c \ub2e4\ub9ac\uac00 \ubd80\ub7ec\uc84c\ub098\ubd10 \ub3c4\uc6c0\uc774 \ud544\uc694\ud574", "assistant": {"response": "\ubcf4\ud638\uc790\ub2d8\uaed8 \uc5f0\ub77d \ud560\uaed8\uc694", "tag": "Emergency_Pain"}}
+{"system": "", "user": "니 이름을 알려줘", "assistant": {"response": "제 이름은 두리에요", "tag": "Play_Name"}}
+{"system": "", "user": "이름이 뭐니?", "assistant": {"response": "제 이름은 두리에요", "tag": "Play_Name"}}
+{"system": "", "user": "나이가 어떻게 돼", "assistant": {"response": "저는 7살이에요", "tag": "Talk_Age"}}
+{"system": "", "user": "연셰가 아떻게 되시나요?", "assistant": {"response": "어려요 저는 7살이에요, ", "tag": "Talk_Age"}}
+{"system": "", "user": "넌 몇 살이나 먹었어", "assistant": {"response": "저는 7살 먹었어요", "tag": "Talk_Age"}}
+{"system": "", "user": "좋은 성경 말씀 재생해줘", "assistant": {"response": "네 성경말씀 들려드릴께요", "tag": "Play_Bible"}}
+{"system": "", "user": "성경 듣고 싶어", "assistant": {"response": "네 성경말씀 들려드릴께요", "tag": "Play_Bible"}}
+{"system": "", "user": "성경 하나 읽어줘", "assistant": {"response": "네 성경말씀 들려드릴께요", "tag": "Play_Bible"}}
+{"system": "", "user": "불경 말씀 재생", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 들려줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 재생해줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불교 경전 소리 듣고 싶어", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 괜찮은 걸로 실행해", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "기도 드리기 좋은 불경 틀어 줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 읽어줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경을 낭독해주는 거 좀 틀어줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경을 틀어줬으면 좋겠어", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 모음을 듣고 싶은데 재생해 주겠니", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 플레이해 줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경을 틀어주게", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "불경 좀 듣고 싶네", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "바로 불경을 플레이 해줘", "assistant": {"response": "네 뷸경말씀 들려드릴께요", "tag": "Play_BuddhistScript"}}
+{"system": "", "user": "노래 크게 틀어줘", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "노래 듣고싶어", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "음악 좀 틀어줘", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "노래 하나 재생시켜줘", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "좋은 음악 들려줘", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "노래 재생해 줄래", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "칠십 대에게 인기 있는 노래를 재생해 주겠니", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "칠공팔공 노래 인기곡으로 틀어 주세요", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "트로트 중에서 많이 듣는 노래 틀어 주실래요", "assistant": {"response": "네 노래틀어드릴께요", "tag": "Play_Music"}}
+{"system": "", "user": "몸이 아픈 것 같아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증 때문에 아파 죽겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 나아지질 않아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸 상태가 너무 나빠", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 견디기 힘들어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "가슴 통증이 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "복통이 멈추지 않는데 구급차를 불러줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아파서 일어날 수가 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "열이 심해서 고통스러워", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "열 때문에 정신이 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 정상이 아니야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 이 정도로 아픈건 큰일이야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 너무 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "가슴쪽이 너무 아픈데 심각해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "계속 토하고 어지럽게 아팠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 이러다 죽겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 죽을 것 같아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "넘어졌는데 숨이 안 쉬어져", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파 살려줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 정신이 혼미해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "넘어졌는데 일어날 수가 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "벌써 삼일째 누워만 있어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 일주일이 넘게 있어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 멈추지 않는데 도움이 필요해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아파서 도움이 필요한 것 같아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아픈데 좀 도와줄래", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "심하게 아파 도와줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 견디기 어려운 정도야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아프고 구토가 멈추지 않아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 그런데 비상 연락 부탁해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 큰일이야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "이렇게 심하게 아픈 적이 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아프고 몸살이 너무 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "가슴이 아프고 호흡이 힘들어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "조금만 움직여도 숨이 차고 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 도움이 필요해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아픈 몸 상태가 호전이 되질 않아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "배가 너무 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리가 부러진 것 같이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "다리가 부러졌나봐 많이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리가 아파서 몸을 일으킬 수가 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "심장 근처에 심한 통증이 있어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "넘어졌는데 골절이 생긴 것 같이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "욕실에서 넘어져서 통증이 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "미끄러졌는데 아파서 움직일 수가 없어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "복통이 너무 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "머리가 너무 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "기운이 하나도 없고 기력 딸려", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "다리에 심한 통증이 있어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "왜 이렇게 배가 아프지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "다친 곳에 피가 멈추지 않아 도와줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "심한 출혈이 있는데 도움이 필요해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "살려줘 너무 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "많이 아파서병원에 가야하니 비상 연락 부탁해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 병원에 가야겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아무래도 병원이 필요한 순간이야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 아프니 아들에게 연락해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파 죽겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 혼자 병원에 갈 수 없는 상태야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "움직일 수도 없이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "이렇게 심한 두통은 처음이야", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "흉통이 너무 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "크게 다쳐서 너무 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "출혈이 너무 심해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "며칠째 계속 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 아파서 움직일 수가 없을 것 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아플때 연락해 줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아프다고 연락 넣어줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증 상태가 너무 좋지 않아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파 심장이", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "급하게 체했나봐", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파요", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 많이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 좀 이상해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "심장이 터질 거 같이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "속이 너무 울렁거려서 힘들어 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "머리가 쪼개질 것 같이 아파 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "지금 너무 아파서 죽을 것 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "이거 큰일이다 너무 아픈데", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 왜 이렇게 아프지 좀 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "온몸이 쓰리고 열도 나는 것 같아 너무 아프다 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "머리가 깨질듯이 아파오는데 너무 힘들어 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "속이 울렁울렁 거리는게 몸이 이상해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "하늘이 빙글빙글 돌고 어지러워 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "술도 안 마셨는데 토할 것 같은데 왜 이러지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아까 넘어졌을 때는 괜찮은데 갑자기 팔이 안 올라가 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아이고 머리가 빠개질 것 같이 아프다 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "머리가 너무 아파 응급 연락 좀 해줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 너무 아픈 것 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "지금 숨이 잘 안쉬어지는 것 같으니까 응급 연락 부탁해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 몸 상태가 너무 안 좋은데 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "지금 쓰러질 것 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 어지러운데 일일구 좀 불러줄래", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "일어나기가 너무 힘들어 아파 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 안 좋아 춥고 떨려 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "머리가 깨질 것 같아 두통약이 필요해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "방금 넘어졌는데 못 움직이겠네 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 안 좋아서 못 움직이겠어 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "미끄러졌는데 팔이 너무 아프네", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파서 정신을 잃을 것 같아", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 쓰러질 것 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 진짜 죽을 것 같이 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 아픈데 도와 줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 못 일어나겠어 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 너무 아픈데 살려 줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 쓰러지기 일보직전이야 나 좀 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 안좋은데 나좀 도와줄수있어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 아프고 이상해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸이 너무 쑤시는데 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몸 상태가 안 좋아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "호흡하기가 너무 힘들어 확인 가능하니", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리가 너무 아파서 아예 움직일 수가 없는데 어떡하지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 배가 찢어질 것 같이 아픈데 이걸 어쩌면 좋지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "숨을 못 쉬겠어 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 지금 속이 너무 메스꺼운데 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "숨 쉬기가 버거워서 못 움직이겠어 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 허리를 못 돌리겠는데", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리가 너무 아파서 못 움직이겠어 좀 도와주겠니", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리 통증이 너무 심해 사람을 좀 불러야할 것 같다 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "지금 배가 너무 아픈데 도와 줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "내가 지금 움직일 수 없을만큼 아파 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "복통이 멈추지 않아 빨리 구급차를 불러줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 멈추지 않아서 도움이 필요해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "심장이 터질 것같이 아파 어떻게 좀 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "두통이 너무 심해서 죽을거 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "배가 너무 아프네 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "몇일째 두통이 사라지지 않아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "기침을 했는 데 피가 흘러나왔어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "팔에 문제가 생긴 거 같아 구급차 좀 불러 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "일어날 수가 없어 머리가 너무 지끈거려 나 좀 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리에 통증이 심해서 다리에 힘이 들어가지 않아 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "어지러워서 일어설 수가 없어 도와 줄래 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "열이 너무 심해 식은땀이 나 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "속이 너무 메스꺼워 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "이 쪽 팔 통증이 말로 할 수가 없네 왜이러지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "뭘 잘못 먹은건지 모르겠네 너무 간지러워서 미칠거 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 숨이 안 쉬어진다고", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "넘어졌는데 뼈 쪽에 문제가 생긴 것 같거든 도와줄래", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아이고 아파 죽겠다 아무한테나 연락 좀 해 봐 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "두통이 심해져서 머리가 깨질듯이 아파와 도와줘 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "두드러기가 너무 심해서 호흡 곤란이 올 지경이야 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나도 어디가 정확히 아픈지는 모르겠지만 배가 그냥 막 아파 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "열이 나고 아파", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아파서 지금 아무것도 못해 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 숨 쉬는게 힘들어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "넘어졌는데 팔이 아파서 안 움직여 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 알레르기가 생긴 거 같네 통증이 심한데 이걸 어쩌나", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 몸이 너무 안 좋아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "너무 아파 병원에 가야할 거 같아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "아이고 몸이 너무 아프네 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "알레르기인 거 같아 이걸 어쩌지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 배가 너무 아픈데 어떻게 해야할지 모르겠어 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "갑자기 배가 너무 아프네 나 좀 도와줄래", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "포장하는데 잘 못해서 칼에 손을 베었네", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "내가 지금 뭘 잘 못 먹었는지 배가 너무 아파 구급차를 불러줘", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "진통제를 먹어도 통증이 나아지지가 않아 ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "통증이 지속되고 있어 어떻게 하면 좋을까", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "어제부터 통증이 가라앉지 않고 있어 걱정되네", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "눈이 빠질듯이 아파서 뜨지를 못하겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "날개뼈부분이 통증이 심한데 왜이러는지 모르겠네", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "편두통이 심해서 어지러워요. ", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "나 어깨 통증이 좀 심하다 이거 큰일인데", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "허리 아파서 일어나지도 못하겠어", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "배아파서 허리도 못 펴겠는데 어떡하지", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
+{"system": "", "user": "방금 넘어졌는데 너무 아파 다리가 부러졌나봐 도움이 필요해", "assistant": {"response": "보호자님께 연락 할께요", "tag": "Emergency_Pain"}}
